@@ -15,4 +15,4 @@ Esse jogo foi recriado com o intuido de aprender e se aperfeiçoar um pouco mais
 
 #### Esse pequeno programa tem como o objetivo de marcar o placar de gols,data e o horário de cada partida já jogada ou que ainda sera jogada.
 
-![Adivinha](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAIVgakDqBGyzWWKNo0CcUuCYJe993EyZBIc4hyK-3-X8qk3Jj.jpg)
+![Adivinha](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAIVgakDqBGyzWWKNo0CcUuCYJe993EyZBIc4hyK-3-X8qk3Jj)
